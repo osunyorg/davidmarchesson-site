@@ -2,6 +2,11 @@
 
 baseURL: https://site.davidmarchesson.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: dbd91bc0-24a4-40e2-97bc-90c83abae4e5
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
